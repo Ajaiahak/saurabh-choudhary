@@ -68,7 +68,7 @@ def poct(comment):
 
     r = browser.submit()
 
-print ("[-[ TH3 T00L P00L CREATE BY S4M4R R4JPUT ]-]")
+print ("[-[ TH3 T00L P00L CREATE BY S4CHIN S4G4R ]-]")
 
 emailx=str(input("➣Enter email : "))
 
